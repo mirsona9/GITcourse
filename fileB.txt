@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Functionality B.
+=======
+Functionality B.
+>>>>>>> testing
